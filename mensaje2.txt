@@ -1,2 +1,6 @@
 holaaaaaaaaaaaaaaholaa
+<<<<<<< HEAD
 algo mas
+=======
+algo menos
+>>>>>>> feature/notas
