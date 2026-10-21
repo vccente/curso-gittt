@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 la respuesta es 10, holaaa
+=======
+la respuesta es 10, mentira es 5
+>>>>>>> feature/respuesta
